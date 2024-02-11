@@ -1,0 +1,229 @@
+{
+    "action": [
+        {
+            "id":1,
+            "name": "Inception",
+            "release_date": "2010-07-16",
+            "ratings": 8.8,
+            "duration": 148,
+            "genre": "Action",
+            "image": "https://rukminim2.flixcart.com/image/832/832/l27wtjk0/poster/x/y/i/medium-inception-movie-hd-matte-finish-poster-butcutnw9954-original-imagdhw4azeedhbz.jpeg?q=70&crop=false",
+            "banner": "https://rukminim2.flixcart.com/image/832/832/xif0q/poster/m/k/k/small-spos8308-poster-inception-animated-wall-poster-sl-8308-original-imaghzwanmepwc89.jpeg?q=70&crop=false",
+            "videourl":"https://youtu.be/YoHD9XEInc0?si=q4yF6ijwlE6mImri"
+
+        },
+        {
+            "id":2,
+            "name": "Mad Max: Fury Road",
+            "release_date": "2015-05-15",
+            "ratings": 8.1,
+            "duration": 120,
+            "genre": "Action",
+            "image": "https://i.pinimg.com/474x/fa/5a/a0/fa5aa04b4f67bd478331b61358c5d42b.jpg",
+            "banner": "https://rukminim2.flixcart.com/image/832/832/xif0q/book/o/f/r/the-art-of-mad-max-fury-road-original-imaggncqkygszwnx.jpeg?q=70&crop=false",
+            "videourl":"https://youtu.be/hEJnMQG9ev8?si=8OBoNg5MbqQIHfgK"
+        },
+        {
+            "id":3,
+            "name": "Die Hard",
+            "release_date": "1988-07-15",
+            "ratings": 8.2,
+            "duration": 132,
+            "genre": "Action",
+            "image": "https://i.pinimg.com/474x/c8/87/47/c88747d8cf6fe519727b20c40db43a51.jpg",
+            "banner": "https://rukminim2.flixcart.com/image/832/832/xif0q/poster/m/k/k/small-spos8308-poster-inception-animated-wall-poster-sl-8308-original-imaghzwanmepwc89.jpeg?q=70&crop=false",
+            "videourl":"https://youtu.be/gYWvwkXreaI?si=xL39AIR6m5ZgXktV"
+            
+        },
+        {
+            "id":4,
+            "name": "John Wick",
+            "release_date": "2014-10-24",
+            "ratings": 7.4,
+            "duration": 101,
+            "genre": "Action",
+            "image": "https://i.pinimg.com/474x/f6/e2/91/f6e2919028fe67d4ba81f1243049f68a.jpg",
+            "banner": "https://static-prod.adweek.com/wp-content/uploads/2019/05/john-wick-poster-qa-hed-page-2019.jpg",
+            "videourl":"https://youtu.be/C0BMx-qxsP4?si=aiOWMXcvKj0TIg0E"
+        },
+        {
+            "id":5,
+            "name": "The Dark Knight",
+            "release_date": "2008-07-18",
+            "ratings": 9.0,
+            "duration": 152,
+            "genre": "Action",
+            "image": "https://i.pinimg.com/474x/5f/fe/79/5ffe79003530da912a82acac80be1426.jpg",
+            "banner": "https://www.prime1studio.com/on/demandware.static/-/Sites-p1s-master-catalog/default/dw26430f2e/images/HDMMDC-02DX/catalog/hdmmdc-02_a00-01.jpg",
+            "videourl":"https://youtu.be/EXeTwQWrcwY?si=lTVYodgkst6c1DH6"
+
+        },
+        {
+            "id":6,
+            "name": "Gladiator",
+            "release_date": "2000-05-05",
+            "ratings": 8.5,
+            "duration": 155,
+            "genre": "Action",
+            "image": "https://i.pinimg.com/474x/7d/fc/9f/7dfc9ff524e297fea582aa18d5121946.jpg",
+            "banner": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2015/07/gladiatorreviewslarge1.jpg",
+            "videourl":"https://youtu.be/P5ieIbInFpg?si=zDNmkxwV_ftRfwtU"
+        },
+        {
+            "id":7,
+            "name": "The Matrix",
+            "release_date": "1999-03-31",
+            "ratings": 8.7,
+            "duration": 136,
+            "genre": "Action",
+            "image": "https://i.pinimg.com/474x/18/d7/4e/18d74ef46e722828f75cca91b009f4a5.jpg",
+            "banner": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2015/07/matrixquadlarge1.jpg",
+            "videourl":"https://youtu.be/9ix7TUGVYIo?si=73fkWuJWgaps0Bgp"
+        },
+        {
+            "id":8,
+            "name": "Avengers: Endgame",
+            "release_date": "2019-04-26",
+            "ratings": 8.4,
+            "duration": 181,
+            "genre": "Action",
+            "image": "https://i.pinimg.com/474x/0d/af/73/0daf73d3471efc7ae0392b9255773ee9.jpg",
+            "banner": "https://w0.peakpx.com/wallpaper/34/966/HD-wallpaper-the-avengers-avengers-endgame-avengers-avengers-endgame.jpg",
+            "videourl":"https://youtu.be/TcMBFSGVi1c?si=2N3irjrn244PNG18"
+        },
+        {
+            "id":9,
+            "name": "Terminator 2: Judgment Day",
+            "release_date": "1991-07-03",
+            "ratings": 8.5,
+            "duration": 137,
+            "genre": "Action",
+            "image": "https://i.pinimg.com/474x/e0/b3/f1/e0b3f10f7f05dfb0f50a5dd2010ecb20.jpg",
+            "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG6dGYL5A7lYL95MFpDRKNntEGcQcWQzhUhuUeb33I2g&s",
+            "videourl":"https://youtu.be/CRRlbK5w8AE?si=s7KysOL8cf-lHBAV"
+        },
+        {
+            "id":10,
+            "name": "Kill Bill: Volume 1",
+            "release_date": "2003-10-10",
+            "ratings": 8.1,
+            "duration": 111,
+            "genre": "Action",
+            "image": "https://i.pinimg.com/474x/e7/aa/c7/e7aac7392ca93a6b1b07c2565868cf1b.jpg",
+            "banner": "https://imgc.allpostersimages.com/img/posters/kill-bill-vol-1_u-L-F4S5NX0.jpg",
+            "videourl":"https://youtu.be/d48qtYoeIqE?si=FgOCXZaxhMzBh44b"
+        }
+    ],
+    "comedy": [
+        {
+            "id":11,
+            "name": "Dumb and Dumber",
+            "release_date": "1994-12-16",
+            "ratings": 7.3,
+            "duration": 107,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/b1/5e/5f/b15e5f75c450e03e5165700d6dd8bd17.jpg",
+            "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROApp1OrU4Ble-oSQy3kmqKsnYOLCIW6ZqPZRzRsV9oY4sZlcyL56X42Bl1g4A3xRwOw&usqp=CAU",
+            "videourl":"https://youtu.be/l13yPhimE3o?si=cV231WavfEAEdpat"
+        },
+        {
+            "id":12,
+            "name": "Superbad",
+            "release_date": "2007-08-17",
+            "ratings": 7.6,
+            "duration": 113,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/33/1d/83/331d83d84934e46c27ed66981495703e.jpg",
+            "banner": "https://m.media-amazon.com/images/I/51IyU3MTVoL._AC_UF894,1000_QL80_.jpg",
+            "videourl":"https://youtu.be/4eaZ_48ZYog?si=4LejRcgb6ZH7Ygo9"
+        },
+        {
+            "id":13,
+            "name": "Anchorman: The Legend of Ron Burgundy",
+            "release_date": "2004-07-09",
+            "ratings": 7.2,
+            "duration": 94,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/6c/bb/92/6cbb92052b95e1557f5916a1238c90ee.jpg",
+            "banner": "https://picfiles.alphacoders.com/724/72401.jpg",
+            "videourl":"https://youtu.be/QvJ1K0_JzFI?si=BOwlfDEZqe1qTYq_"
+        },
+        {
+            "id":14,
+            "name": "Bridesmaids",
+            "release_date": "2011-05-13",
+            "ratings": 6.8,
+            "duration": 125,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/16/cf/2a/16cf2a2e6eecfb38003bda4d1ad20d98.jpg",
+            "banner": "https://www.joblo.com/wp-content/uploads/2011/05/bridesmaids-uk-quad1-1.jpg",
+            "videourl":"https://youtu.be/FNppLrmdyug?si=iphJTHWUFsiDHwxx"
+        },
+        {
+            "id":15,
+            "name": "The Grand Budapest Hotel",
+            "release_date": "2014-03-07",
+            "ratings": 8.1,
+            "duration": 100,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/b8/42/ad/b842ad05a0baaf00d42fdae43f243abc.jpg",
+            "banner": "https://admin.itsnicethat.com/images/4NCL6blJN4dByKgKvRVFskf_Mcg=/49354/format-webp%7Cwidth-2880/54fc3b535c3e3c185b0045d8.jpg",
+            "videourl":"https://youtu.be/1Fg5iWmQjwk?si=vJYQqxJ8syqi146b"
+        },
+        {
+            "id":16,
+            "name": "Ferris Bueller's Day Off",
+            "release_date": "1986-06-11",
+            "ratings": 7.8,
+            "duration": 103,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/2e/00/58/2e00585675cbac06328992e787443a41.jpg",
+            "banner": "https://m.media-amazon.com/images/I/41MrKUzCmPL._AC_.jpg",
+            "videourl":"https://youtu.be/0ZDbKhkLxTs?si=qfbArRPwKmBkx-g-"
+        },
+        {
+            "id":17,
+            "name": "Groundhog Day",
+            "release_date": "1993-02-12",
+            "ratings": 8.0,
+            "duration": 101,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/db/cc/e6/dbcce6a20727227912b7146d649361ab.jpg",
+            "banner": "https://m.media-amazon.com/images/I/71+RNJpyUML._AC_UF894,1000_QL80_.jpg",
+            "videourl":""
+        },
+        {
+            "id":18,
+            "name": "The Hangover",
+            "release_date": "2009-06-05",
+            "ratings": 7.7,
+            "duration": 100,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/9c/5b/5e/9c5b5ed2b5d2c6a12b7de3b84b357086.jpg",
+            "banner": "https://rukminim2.flixcart.com/image/850/1000/poster/t/j/b/the-hangover-strips-maxi-poster-pp32366-medium-original-imadaygvyjgqs6gs.jpeg?q=90&crop=false",
+            "videourl":"https://youtu.be/GncQtURdcE4?si=VrlZuKoFYik_SHh8"
+        },
+        {
+            "id":19,
+            "name": "Napoleon Dynamite",
+            "release_date": "2004-06-11",
+            "ratings": 6.9,
+            "duration": 96,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/cd/08/e3/cd08e3c1def51952df997a496a1b1ef7.jpg",
+            "banner": "https://i.etsystatic.com/17257718/r/il/3c7878/5122926945/il_570xN.5122926945_q839.jpg",
+            "videourl":"https://youtu.be/ZHDi_AnqwN4?si=xEKQmhqPyVAczVsP"
+        },
+        {
+            "id":20,
+            "name": "Shaun of the Dead",
+            "release_date": "2004-04-09",
+            "ratings": 7.9,
+            "duration": 99,
+            "genre": "Comedy",
+            "image": "https://i.pinimg.com/474x/84/ca/d7/84cad715ef0fa66428b50f0aaa590bdc.jpg",
+            "banner": "https://vice-press.com/cdn/shop/products/juan-ramos-shaun-of-the-dead-movie-poster.jpg?v=1653299073&width=1024",
+            "videourl":"https://youtu.be/LIfcaZ4pC-4?si=iSnsqIN-pCy1TZM4"
+        }
+    ]
+}

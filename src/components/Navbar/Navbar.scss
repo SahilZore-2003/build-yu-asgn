@@ -1,0 +1,116 @@
+$black: #020c1b;
+$red: #da244f;
+
+
+nav {
+    background: $black;
+    padding: .5rem 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    z-index: 10000;
+    height: 62px;
+
+    .logo {
+        cursor: pointer;
+    }
+
+    .links {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+
+        a {
+            color: white;
+
+            @media (max-width:750px) {
+                display: none;
+            }
+
+            &:hover {
+                color: $red;
+            }
+        }
+
+        svg {
+            color: var(--white);
+            font-size: 1.5rem;
+            cursor: pointer;
+        }
+
+        .baricon {
+            display: none;
+
+            @media (max-width:750px) {
+                display: inline-block;
+            }
+        }
+
+
+
+        .search {
+            background-color: $black;
+            border-radius: 10px;
+            display: flex;
+            // border: 2px solid red;
+            align-items: center;
+            justify-content: flex-end;
+            gap: .5rem;
+
+            // .cross{
+            //     color: ;
+            // }
+
+
+            input {
+                border-radius: 10px;
+                visibility: visible;
+                border: none;
+                outline: none;
+                width: 0%;
+                overflow-y: hidden;
+                transition: width .5s linear;
+                transform-origin: left;
+                visibility: visible;
+
+
+                &.show {
+                    padding: 5px 10px;
+                    width: 250px;
+                    visibility: visible;
+
+                    @media (max-width:500px) {
+                        width: 150px;
+                    }
+                }
+            }
+        }
+    }
+
+    .mobile-links {
+        background-color: #020c1b;
+        color: white;
+        position: absolute;
+        left: 0;
+        top: -150px;
+        width: 100%;
+        padding: 1rem;
+        z-index: 100;
+        transition: top .3s linear;
+
+        &.show {
+            top: 62px;
+
+        }
+
+
+
+        a {
+            color: white;
+            display: block;
+            margin: .5rem 0;
+            font-size: 1.3rem;
+        }
+    }
+}

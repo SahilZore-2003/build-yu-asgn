@@ -1,0 +1,33 @@
+
+.card{
+    color: white;
+    max-width: 200px;
+    flex-shrink: 0;
+
+    img{
+        border-radius: 20px;
+        width: 100%;
+        height: 300px;
+    }
+
+    .bottom{
+        margin: 1rem 0;
+        padding-inline: .5rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        .CircularProgressbar {
+            width: 50px;
+            vertical-align: middle;
+
+            .CircularProgressbar-text {
+                fill: #fff;
+                font-size: 1.5rem;
+                
+            }
+        }
+
+        
+    }
+}

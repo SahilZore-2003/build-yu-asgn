@@ -1,0 +1,14 @@
+.category {
+    max-width: 1400px;
+    margin: 0 auto;
+    user-select: none;
+    .title {
+        margin: 1.5rem 0;
+        color: var(--white);
+        font-size: 1.8rem;
+    }
+
+    .swiper-con {
+        margin: 3rem 0;
+    }
+}
